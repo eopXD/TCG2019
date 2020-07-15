@@ -1,6 +1,6 @@
 # Theory of Computer Game 2019 Fall
 
-These are homework releases prepared by me. They are illustrated with good API and GUI for playing and solving the problem. (Written in C++11 style)
+These are homework releases prepared for a graduation course in NTU CSIE. They are illustrated with good API and GUI for playing and solving the problem. (Written in C++11 style) You can checkout the specs and try solving them yourself. Have fun!
 
 ## Hw1: Pukoban
 
